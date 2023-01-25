@@ -25,7 +25,7 @@ Det som skulle fungera bättre är nog om alla sa mer och tyckte till dock är d
 
 
 
-3. Min process skulle vara så simpel som möjligt för att ej krångla till det. Det viktiga kommer vara att bryta ner user storyn, då det hjälper med att få funktionaliten i en app att fungera om det skulle vara svårt och det leder till mer konkreta steg för steg hur man kan gå framåt och fortsätta appen. 
+3. Min process skulle vara så simpel som möjligt för att ej krångla till det. Det viktiga kommer vara att bryta ner user storyn, då det hjälper med att få funktionaliten i en app att fungera om det skulle vara svårt och det leder till mer konkreta steg för steg hur man kan gå framåt och fortsätta utveckla appen. 
 
 Ett exempel är "kunna göra en inköpslista" , här skulle man kunna kunna bryta ner den i att först lägga till en recyclerview , efter detta lägga till
 specifika list_item för varje produkt du vill ha. Och möjligheten att radera eller ändra finns. 
